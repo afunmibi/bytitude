@@ -1,1 +1,12 @@
+#navbarCollapse{
+    margin-left: 700px;
+    font-weight:600;
+    color: white;
+}
+.navbar-brand{
+    margin-left: 10px;
+}
 
+##navbarCollapse::after{
+    background-color: red;
+}
